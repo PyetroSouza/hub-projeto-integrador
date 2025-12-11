@@ -13,9 +13,9 @@ No repositório se encontra: os links para os repositórios de cada disciplina, 
 - Landing page do sistema;
 
 ## 👥 Autores
-- [PyetroSouza](https://github.com/PyetroSouza)
-- [Matheus](https://github.com/suehtam6)
 - [Lucas-Kolle](https://github.com/Lucas-Kolle)
+- [Matheus](https://github.com/suehtam6)
+-  [PyetroSouza](https://github.com/PyetroSouza)
   
 ## 🔗Repositórios Relacionados 
 - [LIMA](https://github.com/PyetroSouza/Projeto-integrador-LIMA)
