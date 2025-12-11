@@ -1,14 +1,23 @@
 # Projeto Integrador
+Este repositório funciona como o <b> ponto central </b> do Projeto Integrador. 
+Aqui ficam organizados todos os repositórios da disciplinas envolvidos no desenvolvimento do sistema de gestão de estacionamento <b> VagaCerta </b>, disciplinas são:
+- Lógica de Programação (LOPAL);
+- Levantamento de Requisitos (LER);
+- Linguagem de Marcação (LIMA);
 
-# Descrição
-Nosso projeto foi criado para um trabalho sobre gestão de estacionamentos. Fizemos uma landpage utilizando varias técnologias diferentes, o software do projeto foi a base de Java, utilizando varias técnologias diferentes também.
+No repositório se encontra: os links para os repositórios de cada disciplina, contendo:
+- Acesso aos materiais;
+- Protótipos;
+- Documenação de requisitos;
+- Códigos-fonte;
+- Landing page do sistema;
 
-# Autores
+## 👥 Autores
 - [PyetroSouza](https://github.com/PyetroSouza)
 - [Matheus](https://github.com/suehtam6)
 - [Lucas-Kolle](https://github.com/Lucas-Kolle)
   
-# Relacionados
+## 🔗Repositórios Relacionados 
 - [LIMA](https://github.com/PyetroSouza/Projeto-integrador-LIMA)
 - [LER](https://github.com/PyetroSouza/Projeto-integrador-LER)
 - [LOPAL](https://github.com/PyetroSouza/Projeto-integrador-LOPAL)
